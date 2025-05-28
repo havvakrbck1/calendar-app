@@ -15,7 +15,7 @@ A web application to manage events and schedules.
 ## Ekran Görüntüleri
 
 ![Screenshot](./Screenshot.png)
-![Screenshot(2)](./Screenshot(2).png)
+![Screenshot_2](./Screenshot_2.png)
 
 ## Installation
 
