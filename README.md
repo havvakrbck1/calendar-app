@@ -12,6 +12,10 @@ A web application to manage events and schedules.
 - JavaScript
 - HTML
 - CSS
+## Ekran Görüntüleri
+
+![Screenshot](./Screenshot.png)
+![Screenshot(2)](./Screenshot(2).png)
 
 ## Installation
 
